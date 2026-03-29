@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="120" alt="logo"></p>
+
 # AI Prompt Engineering Pack v1.0.0
 
 **70 battle-tested, premium prompts for Claude, ChatGPT, Gemini, and any LLM.**
